@@ -85,8 +85,9 @@
     height: 300px;
     padding: 20px;
     
-  
 }
+
+
 
 /*ESTO ES EL FOOTER:::::::::::::::::::::::*/
 
@@ -125,7 +126,11 @@
     text-decoration: none;
     color: black;
     
-    
+}
+
+.pie-pagina .grupo-1 .box-2 .red-social a:hover{
+    color: blueviolet;
+
 }
 
 .pie-pagina .grupo-2{
